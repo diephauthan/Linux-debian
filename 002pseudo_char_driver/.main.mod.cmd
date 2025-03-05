@@ -1,1 +1,1 @@
-savedcmd_/home/than-diep/workspace/ldd/custom_drivers/002pseudo_char_driver/main.mod := printf '%s\n'   main.o | awk '!x[$$0]++ { print("/home/than-diep/workspace/ldd/custom_drivers/002pseudo_char_driver/"$$0) }' > /home/than-diep/workspace/ldd/custom_drivers/002pseudo_char_driver/main.mod
+cmd_/home/than-diep/workspace/ldd/custom_drivers/002pseudo_char_driver/main.mod := { echo  /home/than-diep/workspace/ldd/custom_drivers/002pseudo_char_driver/main.o;  echo; } > /home/than-diep/workspace/ldd/custom_drivers/002pseudo_char_driver/main.mod
