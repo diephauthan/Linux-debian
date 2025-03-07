@@ -26,10 +26,10 @@ MODULE_INFO(retpoline, "Y");
 static const struct modversion_info ____versions[]
 __used __section("__versions") = {
 	{ 0x7f2455b3, "module_layout" },
-	{ 0xefd6cf06, "__aeabi_unwind_cpp_pr0" },
 	{ 0xa6a08f14, "cdev_add" },
 	{ 0x2a08ad43, "cdev_init" },
 	{ 0xe3ec2f2b, "alloc_chrdev_region" },
+	{ 0xefd6cf06, "__aeabi_unwind_cpp_pr0" },
 };
 
 MODULE_INFO(depends, "");
