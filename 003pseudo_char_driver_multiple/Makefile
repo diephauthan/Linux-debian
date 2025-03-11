@@ -1,4 +1,4 @@
-obj-m := main.o
+obj-m := pcd_n.o
 ARCH=arm
 CROSS_COMPILE=arm-linux-gnueabihf-
 KERN_DIR =/home/than-diep/workspace/ldd/source/linux_bbb_5.10/linux-5.10.168-ti-rt-r76/
